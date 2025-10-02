@@ -1,8 +1,9 @@
 # NewsGridResources
 
+**Live Demo:** https://vermillion-malabi-d305ad.netlify.app/
+
 ![Pages Deploy](https://github.com/eriktong/NewsGridResources/actions/workflows/pages.yml/badge.svg) ![Last commit](https://img.shields.io/github/last-commit/eriktong/NewsGridResources) 
 
-**Live Demo:** [https://eriktong.github.io/NewsGridResources/](https://eriktong.github.io/NewsGridResources/)
 
 > News/magazine layout built with modern CSS.
 
